@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FCM Demo</string>
+    <string name="channel_id" translatable="false">Belajar</string>
+</resources>
